@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.45.0",
+    "playwright": "^1.45.0"
+  },
+  "name": "sitetracker",
+  "version": "1.0.0",
+  "description": "salesforce playwright automation",
+  "main": "playwright.config.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "monika",
+  "license": "ISC"
+}
